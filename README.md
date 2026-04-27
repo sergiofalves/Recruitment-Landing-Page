@@ -1,3 +1,5 @@
+# Recruitment Landing Page | Reinventing the Web To Suit You
+
 This repository contains the source code for the official **recruitment landing page** used in the research study **"Reinventing the Web To Suit You."** The site was developed to facilitate participant outreach and provide a bilingual interface (English and Portuguese) for study information.
 
 [**View the Live Site Here**](https://sergiofalves.github.io/Recruitment-Landing-Page/en/)
